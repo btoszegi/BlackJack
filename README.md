@@ -1,2 +1,2 @@
 # BlackJack
-Simple Command line BlackJack game
+Simple command line BlackJack game
